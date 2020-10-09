@@ -5,9 +5,10 @@ https://jovian.ml/maisteru/first-steps-with-python
 https://jovian.ml/maisteru/python-variables-and-data-types
 https://jovian.ml/maisteru/python-branching-and-loops
 
-Assigment1: https://jovian.ml/maisteru/python-practice-assignment-numero-uno /n
+Assigment1: https://jovian.ml/maisteru/python-practice-assignment-numero-uno
 Assigment2: https://jovian.ml/maisteru/numpy-array-hard
 Assigment3: https://jovian.ml/maisteru/assigment-third
+Course_project: https://jovian.ml/maisteru/police-shooting-analyse
 
 
 https://jovian.ml/maisteru/function
